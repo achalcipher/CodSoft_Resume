@@ -1,0 +1,60 @@
+ACHAL SRIVASTAVA
+WEB DEVELOPER
+
+
+Dedicated and skilled Full Stack Developer with experience in web development, JavaScript, Python, and various other programming languages. I have a proven track record of success in coding competitions and problem-solving, including securing a high rank in a national coding competition and being shortlisted for a prestigious hackathon. My future goals include mastering full stack web development, honing skills in Java, Python, C, data structures and algorithms, and advancing my expertise in database management, photo, and video editing. My educational background in Bachelor of Engineering and ongoing commitment to learning demonstrate my passion for continuous improvement and growth in the field of software engineering.
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  ★★★★★ Full Stack
+  ★★★★★ Web Development
+  ★★★★★ JavaScript
+  ★★★★★ Python
+  ★★★★★ Database Management
+  ★★★★★ Java
+  ★★★★★ Data Structures
+  ★★★★★ Algorithms
+
+WORK EXPERIENCE
+  * October 2023 – July 2027
+    Education at Student, 
+      Currently pursuing my B.Tech at Shri Ramswaroop Memorial College of Engineering and Management. During my schooling at Lucknow Public College, I excelled in coding competitions, front-end development, and demonstrated enthusiasm for AI. My future goals include becoming proficient in full stack web development, Java, Python, C, data structures and algorithms, database management, as well as photo and video editing.
+
+  * June 2023 – October 2023
+    Web Developer at Midvana Technologies, 
+      As a Web Developer at Midvana Technologies, I was involved in developing and maintaining web applications using my skills in Fast Learner, Computer Skills, Active Listening, Creativity, Customer Service Skills, and Strategic Planning. Additionally, I participated in and won a Hackathon Competition during my tenure.
+
+  * April 2023 – July 2023
+    Full Stack Developer at Suntek Corp Solutions PVT.LTD, 
+      As a Full Stack Developer at Suntek Corp Solutions PVT.LTD, I was responsible for developing and maintaining web applications using JavaScript, Python, Java, MySQL, Node.js, and MongoDB. I collaborated with cross-functional teams to gather requirements, design, and implement user-friendly interfaces. Additionally, I optimized the performance of the applications by implementing best practices and utilizing my expertise in J2EEE, Web Development, HTML, and CSS.
+
+  Developed and maintained web applications using JavaScript, Python, Java, MySQL, Node.js, and MongoDB.
+  Optimized the performance of the applications by implementing best practices and utilizing expertise in J2EEE, Web Development, HTML, and CSS.
+  Contributed to the successful delivery of projects and ensured client satisfaction.
+
+
+  * February 2023 – January 2024
+    Software Engineer at HCL technologies, 
+      As a Software Engineer at HCL technologies, I worked on a project titled &#39;Ulta Beauty&#39; where my role as an SAP BODS Developer involved creating and automating jobs in SAP BODS to ensure efficient ETL processes. I also handled tasks such as scheduling, error handling, and job integration, while enhancing existing jobs, analyzing performance, and creating SQL scripts. Additionally, I contributed to the creation and migration of data stores from SQL Server to HANA.
+
+  Designed and built ETL processes in SAP BODS.
+  Automated jobs in SAP BODS for efficient and consistent ETL processes.
+  Handled job scheduling, error handling, and job integration.
+  Enhanced existing jobs in SAP BODS for improved performance and scalability.
+  Analyzed and applied performance improvement techniques for existing jobs.
+  Created and applied SQL logic conditions in SQL scripts.
+  Designed and created models and data store changes, and migrated data from SQL Server to HANA.
+
+
+
+EDUCATION
+  * October 2023 – July 2027
+    SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT,  B.Tech
+  * April 2016 – July 2022
+    LUCKNOW PUBLIC COLLEGE,  SCHOOLING
+
